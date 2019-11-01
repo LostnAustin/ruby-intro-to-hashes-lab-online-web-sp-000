@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
-	hash => {
+	hash = {
 		:actor => {}
 	}
 end
