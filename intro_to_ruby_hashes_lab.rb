@@ -4,7 +4,7 @@ end
 
 def actor
 	hash => {
-		:actor
+		:actor => {}
 	}
 end
 
